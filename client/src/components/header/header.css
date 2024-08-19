@@ -1,0 +1,43 @@
+.header{
+    margin-top:60px;
+}
+.headerTitles{
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+    font-family: 'Lora',serif;
+    color:hsl(0, 13%, 94%);
+    text-shadow:1px 1px 1px black;
+}
+.headerTitleSm
+{
+    position:absolute;
+    top:22%;
+    font-size:25px;
+    font-family: Arial, sans-serif; 
+    font-weight: 900;
+}
+.headerTitleSm-1
+{
+    position:absolute;
+    top:65%;
+    font-size:25px;
+    font-family: Arial, sans-serif; 
+    font-weight: 800;
+    color:#DC5F00;
+}
+.headerTitleLg
+{
+    font-weight: 1000;
+    font-family: Arial, sans-serif; 
+    position:absolute;
+    color:#240A34;
+    top:40%;
+   font-size:100px;
+}
+.headerImg{
+    width:100%;
+    height:450px;
+    margin-top:-70px;
+    object-fit:cover;
+}
