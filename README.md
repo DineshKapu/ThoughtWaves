@@ -26,13 +26,13 @@ Explore the live version of ThoughtWaves [here](#).
 ## 📸 Screenshots
 
 ### Home Page
-[Home Page](https://github.com/DineshKapu/ThoughtWaves/blob/master/Readme%20images/Home%20Page.png)
+![Home Page](https://github.com/DineshKapu/ThoughtWaves/blob/master/Readme%20images/Home%20Page.png)
 
 ### Blogs Page
-[Blog Post Page](https://github.com/DineshKapu/ThoughtWaves/blob/master/Readme%20images/Blogs%20Page.png)
+![Blog Post Page](https://github.com/DineshKapu/ThoughtWaves/blob/master/Readme%20images/Blogs%20Page.png)
 
 ### Login page
-[Login page ](https://github.com/DineshKapu/ThoughtWaves/blob/master/Readme%20images/Login%20Page.png)
+![Login page ](https://github.com/DineshKapu/ThoughtWaves/blob/master/Readme%20images/Login%20Page.png)
 
 ## 🗂️ Project Structure
 
