@@ -21,7 +21,7 @@ Welcome to **ThoughtWaves**, a dynamic and inspiring platform for sharing ideas,
 
 ## 🚀 Project Demo
 
-Explore the live version of ThoughtWaves [here](#).
+Explore the live version of ThoughtWaves [here](https://66b4a001362e14e2aa6c48e6--joyful-griffin-72ad3e.netlify.app/).
 
 ## 📸 Screenshots
 
