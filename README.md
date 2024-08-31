@@ -15,6 +15,7 @@ Welcome to **ThoughtWaves**, a dynamic and inspiring platform for sharing ideas,
   - React.js
   - CSS
 - **Backend:**
+- -Node.js
   - Express.js
   - MongoDB
 
@@ -25,13 +26,13 @@ Explore the live version of ThoughtWaves [here](#).
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](#)
+![Home Page](Readme images/Home Page.png)
 
-### Blog Post Page
-![Blog Post Page](#)
+### Blogs Page
+![Blog Post Page](Readme images/Blogs Page.png)
 
-### Author Profile Page
-![Author Profile Page](#)
+### Login page
+![Login page ](Readme images/Login Page.png)
 
 ## 🗂️ Project Structure
 
